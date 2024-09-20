@@ -1,0 +1,14 @@
+import './App.css'
+import HelloWorld from "./component/HelloWorld.tsx";
+
+function App() {
+
+
+  return (
+    <>
+      <HelloWorld/>
+    </>
+  )
+}
+
+export default App
